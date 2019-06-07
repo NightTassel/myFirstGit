@@ -6,3 +6,4 @@ add version2
 add version3
 untracked
 firstModified
+SECONDMODIFIED
